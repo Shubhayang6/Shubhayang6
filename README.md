@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/_caro_l_" target="blank"><img src="https://img.shields.io/twitter/follow/_caro_l_?logo=twitter&style=for-the-badge" alt="_caro_l_" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Docker, Networking**
+- 🌱 I’m currently learning **Linux, Docker, Networking.**
 
-- 💬 Ask me about **Tech on cars, Embedded software/hardware**
+- 💬 Ask me about **Tech on cars, Embedded software/hardware.**
 
-- 📫 How to reach me **shubhayan.tech@gmail.com**
+- 📫 How to reach me **shubhayan.tech@gmail.com.**
 
-- ⚡ Fun fact **I am a Pianist🎹**
+- ⚡ Fun fact: **I am a Pianist🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
