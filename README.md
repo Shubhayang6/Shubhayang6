@@ -1,31 +1,78 @@
-<h1 align="center">HEYY!!👋, I'm Shubhayan</h1>
-<h3 align="center">A problem-solving nerd into Embedded and IOT.</h3>
+<h1 align="center">Shubhayan Ghosh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhayang6&label=Profile%20views&color=0e75b6&style=flat" alt="shubhayang6" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_caro_l_" target="blank"><img src="https://img.shields.io/twitter/follow/_caro_l_?logo=twitter&style=for-the-badge" alt="_caro_l_" /></a> </p>
-
-- 🌱 I’m currently learning **Linux, Docker, Networking.**
-
-- 💬 Ask me about **Tech on cars, Embedded software/hardware.**
-
-- 📫 How to reach me **shubhayan.tech@gmail.com.**
-
-- ⚡ Fun fact: **I am a Pianist🎹**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/shubhayang6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shubhayang6" height="30" width="40" /></a>
-<a href="https://twitter.com/_caro_l_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_caro_l_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhayan-ghosh-b496b11b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhayan-ghosh-b496b11b4/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16454766/shubhayan-ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16454766/shubhayan-ghosh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/_3mbed_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/_3mbed_dev" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhayan.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhayan.tech" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/graveyard_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/graveyard_123" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ShubhayanGhosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shubhayanghosh/" height="30" width="40" /></a>
+<p align="center">
+  <b>Embedded software engineer</b> — automotive gateway ECUs, AUTOSAR MCAL, LLVM toolchains.<br/>
+  Currently pushing sandboxed runtimes and Edge-AI onto hardware that has no business running them.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://shubhayanghosh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/ghoshshubhayan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@shubhayan.tech"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://dev.to/shubhayang6"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+  <a href="https://leetcode.com/u/ShubhayanGhosh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://stackoverflow.com/users/16454766/shubhayan-ghosh"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="mailto:shubhayan.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayang6&show_icons=true&locale=en&layout=compact" alt="shubhayang6" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/64%20KB%20%E2%86%92%201%20KB-98.3%25%20memory%20cut-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TSN%20sync-%3C250%20%C2%B5s-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wasm%20apps%20on%20one%20MCU-5%C3%97-1B365D?style=flat-square"/>
+</p>
+
+<table>
+<tr>
+<td valign="top" width="57%">
+
+<h3>What I work on</h3>
+
+<ul>
+<li><b>WebAssembly on microcontrollers</b> — a runtime and memory-analysis framework that ships apps to automotive MCUs without reflashing. Traveo T2G, TC3xx, STM32 F/H, ESP32. Adopted internally at Bosch.</li>
+<li><b>Compilers &amp; toolchains</b> — LLVM/Clang for Infineon AURIX and Traveo; a C→Wasm build pipeline that removed the flash-and-pray loop entirely.</li>
+<li><b>In-vehicle networking</b> — TSN time sync across CAN, Ethernet and FlexRay; SOME/IP service discovery; ISO 26262 MCAL for production Mercedes-Benz platforms.</li>
+</ul>
+
+<h3>Where I'm heading</h3>
+<p>ML systems — inference runtimes, serving infrastructure, and the unglamorous layer between models and metal. Same instincts, bigger silicon.</p>
+
+</td>
+<td valign="top" width="43%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayang6&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages"/>
+
+<p align="center"><sub>Most of my work lives behind an OEM firewall.<br/><a href="https://shubhayanghosh.netlify.app/">The portfolio has the full write-ups →</a></sub></p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AUTOSAR%20Classic-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ISO%2026262-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CAN%20FD-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ethernet%20%2F%20TSN-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FlexRay-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SOME%2FIP-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-1B365D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zephyr-1B365D?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TF%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yocto-1E1E1E?style=flat-square&logo=yocto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+<p align="center"><sub>🎹 Off-hours I'm at a piano. Bengaluru, India.</sub></p>
