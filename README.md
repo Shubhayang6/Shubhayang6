@@ -39,7 +39,7 @@
 </td>
 <td valign="top" width="43%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayang6&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages"/>
+<img src="https://shubhayanghosh.netlify.app/" alt="Top languages"/>
 
 <p align="center"><sub>Most of my work lives behind an OEM firewall.<br/><a href="https://shubhayanghosh.netlify.app/">The portfolio has the full write-ups →</a></sub></p>
 
