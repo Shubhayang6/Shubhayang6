@@ -38,7 +38,7 @@
 </td>
 <td valign="top" width="43%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayang6&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayang6&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages"/> -->
 
 <p align="center"><sub>Most of my work ships behind an OEM firewall.<br/><a href="mailto:shubhayan.tech@gmail.com">Ask me and I'll walk you through it →</a></sub></p>
 
