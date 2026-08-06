@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://shubhayanghosh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/ghoshshubhayan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@shubhayan.tech"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dev.to/shubhayang6"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/></a>
@@ -39,9 +38,9 @@
 </td>
 <td valign="top" width="43%">
 
-<img src="https://shubhayanghosh.netlify.app/" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayang6&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Top languages"/>
 
-<p align="center"><sub>Most of my work lives behind an OEM firewall.<br/><a href="https://shubhayanghosh.netlify.app/">The portfolio has the full write-ups →</a></sub></p>
+<p align="center"><sub>Most of my work ships behind an OEM firewall.<br/><a href="mailto:shubhayan.tech@gmail.com">Ask me and I'll walk you through it →</a></sub></p>
 
 </td>
 </tr>
